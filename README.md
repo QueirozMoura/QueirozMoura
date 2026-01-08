@@ -92,8 +92,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typesc
 
 <img align="left"
       alt="Github Stats"
-
-
       height="200"
       style="padding-right: 10px;"
  src="https://github-readme-stats.vercel.app/api/top-langs/?username=queirozmoura&theme=tokyonight&locale=en&layout=compact&custom_title&Tecnologias&langs_count=5" />
