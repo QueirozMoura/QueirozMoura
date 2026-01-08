@@ -92,11 +92,18 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typesc
 
 <img align="left"
       alt="Github Stats"
+
+
       height="200"
       style="padding-right: 10px;"
  src="https://github-readme-stats.vercel.app/api/top-langs/?username=queirozmoura&theme=tokyonight&locale=en&layout=compact&custom_title&Tecnologias&langs_count=5" />
          
-          
+<br>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/queirozMoura/queirozMoura/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/queirozMoura/queirozMoura/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/queirozMoura/queirozMoura/output/github-contribution-grid-snake.svg">
+</picture>
           
           
           
