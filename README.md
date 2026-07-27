@@ -3,7 +3,7 @@
 🚀 **Full Stack Developer | React, Node.js, PostgreSQL**  
 🇧🇷 Brazil
 
-I'm a Systems Analysis and Development student and Full Stack Developer focused on building modern web applications. I develop complete solutions using **React**, **Node.js**, **Express** and **PostgreSQL**, including responsive user interfaces, REST APIs, authentication, database design and production deployment. I am currently seeking an internship opportunity in Software Development to contribute to real projects while continuing to grow as a developer.
+I'm a Systems Analysis and Development student and aspiring Full Stack Developer building complete web applications with **React**, **Node.js**, **Express** and **PostgreSQL**. I deliver responsive user interfaces, REST APIs, authentication, database design and production deployment. I am currently seeking a Software Development internship to contribute to real projects while continuing to grow in the field.
 
 
 
