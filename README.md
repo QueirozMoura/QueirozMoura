@@ -1,9 +1,9 @@
 # Hi 👋, I'm Gustavo Moura
 
-🚀 **Front-End Developer | HTML, CSS, JavaScript, React**  
+🚀 **Full Stack Developer | React, Node.js, PostgreSQL**  
 🇧🇷 Brazil
 
-**Junior Front-End Developer** with a degree in Systems Analysis and Development and a solid foundation in **HTML, CSS, and JavaScript**. I have practical experience creating **responsive and functional** interfaces, focusing on **usability and code quality**. My portfolio demonstrates projects that reinforce my commitment to good **development practices, adaptable design, and solving real-world problems**. I am always learning new technologies and seeking to evolve as a **development professional.**
+I'm a Systems Analysis and Development student and Full Stack Developer focused on building modern web applications. I develop complete solutions using **React**, **Node.js**, **Express** and **PostgreSQL**, including responsive user interfaces, REST APIs, authentication, database design and production deployment. I am currently seeking an internship opportunity in Software Development to contribute to real projects while continuing to grow as a developer.
 
 
 
@@ -23,78 +23,38 @@
 
 ### 👾 Languages ​​and Technologies
 
+<p>
+  <img alt="REACT" title="REACT" width="30" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img alt="JAVASCRIPT" title="JAVASCRIPT" width="30" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="TYPESCRIPT" title="TYPESCRIPT" width="30" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img alt="NODEJS" title="NODEJS" width="30" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img alt="EXPRESS" title="EXPRESS" width="30" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+  <img alt="POSTGRESQL" title="POSTGRESQL" width="30" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img alt="PRISMA" title="PRISMA" width="30" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
+  <br/><br/>
+  <img alt="TAILWIND CSS" title="TAILWIND CSS" width="30" style="padding-right: 10px;" src="https://cdn.simpleicons.org/tailwindcss/06b6d4" />
+  <img alt="GIT" title="GIT" width="30" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="GITHUB" title="GITHUB" width="30" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img alt="VERCEL" title="VERCEL" width="30" style="padding-right: 10px;" src="https://cdn.simpleicons.org/vercel/000000" />
+  <img alt="RENDER" title="RENDER" width="30" style="padding-right: 10px;" src="https://cdn.simpleicons.org/render/000000" />
+  <img alt="SUPABASE" title="SUPABASE" width="30" style="padding-right: 10px;" src="https://cdn.simpleicons.org/supabase/3ecf8e" />
+  <img alt="NEON" title="NEON" width="30" style="padding-right: 10px;" src="https://cdn.simpleicons.org/neon/000000" />
+</p>
 
-<img  align="left"
-      alt="HTML"
-      title="HTML"
-      width="30"
-      style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-
-
-<img  align="left"
-      alt="CSS"
-      title="CSS"
-      width="30"
-      style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-
-
-<img align="left"
-      alt="JAVASCRIPT"
-      title="JAVASCRIPT"
-      width="30"
-      style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
- 
-<img align="left"
-      alt="REACT"
-      title="REACT"
-      width="30"
-      style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-
- 
-<img align="left"
-      alt="NODEJS"
-      title="NODEJS"
-      width="30"
-      style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-
- 
-<img align="left"
-      alt="TYPESCRIPT"
-      title="TYPESCRIPT"
-      width="30"
-      style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-
-
-<img align="left"
-      alt="PYTHON"
-      title="PYTHON"
-      width="30"
-      style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-
-<br/>
-<br/>
 
 ### 📊 Statistics
 
 <img align="left"
-      alt="Github Stats"
+      alt="GitHub Stats"
       height="200"
       style="padding-right: 10px;"
- src="https://github-readme-stats.vercel.app/api?username=queirozmoura&show_icons=true&theme=tokyonight&include_all=true&locale=en" />
+ src="https://github-readme-stats.vercel.app/api?username=QueirozMoura&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" />
 
 <img align="left"
-      alt="Github Stats"
+      alt="Top Languages"
       height="200"
       style="padding-right: 10px;"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=queirozmoura&theme=tokyonight&locale=en&layout=compact&custom_title&Tecnologias&langs_count=5" />
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=QueirozMoura&theme=tokyonight&layout=compact&langs_count=6&locale=en" />
          
 <br>
 <picture align="center">
