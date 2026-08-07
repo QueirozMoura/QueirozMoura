@@ -328,7 +328,9 @@ jobs:
 <a href="https://www.linkedin.com/in/gustavomoura-/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-00fff2?style=for-the-badge&logo=linkedin&logoColor=0d1117"/>
 </a>
-<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-8be9fd?style=for-the-badge&logo=vercel&logoColor=0d1117"/>
+<a href="https://queirozmoura.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-00FFF2?style=for-the-badge&logo=vercel&logoColor=0d1117"/>
+</a>
 
 </div>
 
