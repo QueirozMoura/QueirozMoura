@@ -143,6 +143,8 @@ Sistema Full Stack desenvolvido para uma empresa real de assistência técnica, 
 <img src="https://img.shields.io/badge/-Google%20OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Resend-000000?style=for-the-badge&logo=resend&logoColor=white"/>
 
+`Stack: React · Vite · Tailwind CSS · Node.js · Express · Prisma · PostgreSQL · Mercado Pago · Google OAuth · Resend`
+
 <br/><br/>
 
 <a href="https://github.com/QueirozMoura/assistencia-tecnica" target="_blank">
@@ -166,12 +168,14 @@ Principais decisões técnicas: Vector Clocks para ordenar causalidade entre dis
 <img src="https://img.shields.io/badge/-IndexedDB-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white"/>
 
+`Stack: TypeScript · React · Vite · Tailwind CSS · Fastify · PostgreSQL · IndexedDB · Vitest`
+
 <br/><br/>
 
 <a href="https://github.com/QueirozMoura/synclab" target="_blank">
 <img src="https://img.shields.io/badge/Reposit%C3%B3rio-0d1117?style=for-the-badge&logo=github&logoColor=00fff2"/>
 </a>
-<a href="https://synclab-pi.vercel.app" target="_blank">
+<a href="https://synclab-phi.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Demo%20ao%20Vivo-00fff2?style=for-the-badge&logo=vercel&logoColor=0d1117"/>
 </a>
 
@@ -188,6 +192,8 @@ Ferramenta desenvolvida para comparar odds de futebol (Premier League) entre dif
 <img src="https://img.shields.io/badge/-API--Football-1A1A2E?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
 
+`Stack: Node.js · Express · Axios · HTML · CSS · JavaScript · API-Football`
+
 <br/><br/>
 
 <a href="https://github.com/QueirozMoura/tabela-aposta" target="_blank">
@@ -198,20 +204,36 @@ Ferramenta desenvolvida para comparar odds de futebol (Premier League) entre dif
 
 ### 🏅 Portfolio
 
-Portfólio pessoal apresentando projetos, tecnologias e a trajetória de desenvolvimento de software.
+Portfólio pessoal desenvolvido do zero como projeto próprio, não apenas uma página estática com links. Componentizado em seções (Hero, Sobre, Projetos, Stack, Jornada, Contato) e em componentes de UI reutilizáveis (cards, badges, botões), com dados de projetos, tecnologias e linha do tempo organizados de forma data-driven. Interface responsiva, com navegação lateral contextual.
 
-<a href="https://github.com/QueirozMoura/portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=QueirozMoura&repo=portfolio&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&icon_color=ff00c8"/>
+<img src="https://skillicons.dev/icons?i=react,typescript,tailwind,vite&theme=dark"/>
+<img src="https://img.shields.io/badge/-Lucide%20React-F56565?style=for-the-badge&logo=react&logoColor=white"/>
+
+`Stack: React · TypeScript · Tailwind CSS · Vite · Lucide React`
+
+<br/><br/>
+
+<a href="https://github.com/QueirozMoura/portfolio" target="_blank">
+<img src="https://img.shields.io/badge/Reposit%C3%B3rio-0d1117?style=for-the-badge&logo=github&logoColor=00fff2"/>
+</a>
+<a href="https://queirozmoura.github.io/portfolio/" target="_blank">
+<img src="https://img.shields.io/badge/Demo%20ao%20Vivo-00fff2?style=for-the-badge&logo=vercel&logoColor=0d1117"/>
 </a>
 
 <br/><br/>
 
 ### 🎖️ Previsão do Tempo com IA
 
-Aplicativo web de previsão do tempo por cidade, com sugestão de vestimenta via IA e suporte a entrada por texto ou comando de voz.
+Aplicativo web de previsão do tempo por cidade, com sugestão de vestimenta via IA e suporte a entrada por texto ou comando de voz. Um backend em Node.js/Express faz a ponte entre o frontend e duas APIs externas: a OpenWeather API para os dados meteorológicos e a Groq AI API para gerar, a partir da temperatura e umidade retornadas, uma sugestão de roupa adequada — mantendo as chaves de API fora do client.
 
-<a href="https://github.com/QueirozMoura/projeto-previsao-do-tempo-com-ia">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=QueirozMoura&repo=projeto-previsao-do-tempo-com-ia&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&icon_color=ff00c8"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express&theme=dark"/>
+
+`Stack: HTML · CSS · JavaScript · Node.js · Express · OpenWeather API · Groq AI API · Web Speech API`
+
+<br/><br/>
+
+<a href="https://github.com/QueirozMoura/projeto-previsao-do-tempo-com-ia" target="_blank">
+<img src="https://img.shields.io/badge/Reposit%C3%B3rio-0d1117?style=for-the-badge&logo=github&logoColor=00fff2"/>
 </a>
 
 </div>
