@@ -131,54 +131,88 @@ sobre_mim:
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🥇 JFQ Assistência
 
-### 🥇 Technical Assistance Management System
-Complete management system for technical assistance with dashboard, authentication, service orders, inventory management and payments.
+<img src="https://img.shields.io/badge/PROJETO-REAL%20PARA%20CLIENTE-ff00c8?style=for-the-badge&labelColor=0d1117"/>
 
-<a href="https://github.com/QueirozMoura/technical-assistance-system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=QueirozMoura&repo=technical-assistance-system&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&icon_color=ff00c8"/>
+Sistema Full Stack desenvolvido para uma empresa real de assistência técnica, unindo gestão de serviços e uma camada de e-commerce em uma única aplicação. Cobre catálogo e detalhes de produtos, agendamento de serviços, cadastro e autenticação de clientes (incluindo login com Google), checkout com Mercado Pago via webhook, envio de e-mails transacionais (verificação e recuperação de senha) e um painel administrativo completo para gestão de categorias, produtos, clientes, pedidos e agendamentos.
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,prisma,postgres&theme=dark"/>
+<br/>
+<img src="https://img.shields.io/badge/-Mercado%20Pago-00B1EA?style=for-the-badge&logo=mercadopago&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Google%20OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Resend-000000?style=for-the-badge&logo=resend&logoColor=white"/>
+
+<br/><br/>
+
+<a href="https://github.com/QueirozMoura/assistencia-tecnica" target="_blank">
+<img src="https://img.shields.io/badge/Reposit%C3%B3rio-0d1117?style=for-the-badge&logo=github&logoColor=00fff2"/>
+</a>
+<a href="https://assistencia-tecnica-mauve.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/Demo%20ao%20Vivo-00fff2?style=for-the-badge&logo=vercel&logoColor=0d1117"/>
 </a>
 
-</td>
-<td width="50%" valign="top">
+<br/><br/>
 
-### 🥈 Full Stack E-commerce
-Modern e-commerce platform featuring authentication, shopping cart, admin dashboard and payment integration.
+### 🥈 Synclab
 
-<a href="https://github.com/QueirozMoura/fullstack-ecommerce">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=QueirozMoura&repo=fullstack-ecommerce&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&icon_color=ff00c8"/>
+Editor de documentos offline-first: cada edição é gravada localmente antes de qualquer chamada de rede, e um motor de sincronização baseado em operações resolve o estado entre dispositivos quando a conexão volta. O problema central era garantir consistência sem depender de um servidor sempre disponível — a solução foi tratar o estado local como fonte da verdade e o servidor apenas como um par de sincronização.
+
+Principais decisões técnicas: Vector Clocks para ordenar causalidade entre dispositivos (já que timestamps de máquinas diferentes não são confiáveis), um CRDT de sequência a nível de caractere no backend para resolver edições concorrentes, log de operações com deduplicação idempotente, compactação por snapshots para evitar crescimento ilimitado do log, e um critério de desempate determinístico (deviceId + id da operação) para garantir que todas as réplicas cheguem ao mesmo estado final. Persistência local em IndexedDB, Service Worker próprio para cache do app shell, e suíte de testes cobrindo Vector Clocks, sincronização entre dois dispositivos e recuperação de falhas.
+
+<img src="https://skillicons.dev/icons?i=typescript,react,vite,tailwind,nodejs,postgres&theme=dark"/>
+<br/>
+<img src="https://img.shields.io/badge/-Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white"/>
+<img src="https://img.shields.io/badge/-IndexedDB-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white"/>
+
+<br/><br/>
+
+<a href="https://github.com/QueirozMoura/synclab" target="_blank">
+<img src="https://img.shields.io/badge/Reposit%C3%B3rio-0d1117?style=for-the-badge&logo=github&logoColor=00fff2"/>
+</a>
+<a href="https://synclab-pi.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/Demo%20ao%20Vivo-00fff2?style=for-the-badge&logo=vercel&logoColor=0d1117"/>
 </a>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br/><br/>
 
-### 🥉 Portfolio Website
-Personal portfolio showcasing projects, technologies and software development journey.
+### 🥉 Freelancer — Agregador de Odds de Futebol
+
+<img src="https://img.shields.io/badge/PROJETO-FREELANCE-ff00c8?style=for-the-badge&labelColor=0d1117"/>
+
+Ferramenta desenvolvida para comparar odds de futebol (Premier League) entre diferentes casas de apostas. O backend consome a API externa API-Football, filtra os dados para um conjunto específico de bookmakers (Betano, Bet365, KTO, Marathonbet, Paddy Power) e normaliza as odds de resultado (casa/empate/fora) e de over/under 2,5 gols em um formato único. O frontend exibe essas odds em tabela, destacando automaticamente a maior odd disponível para cada jogo, com opção de exportação para planilha.
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,html,css,js&theme=dark"/>
+<br/>
+<img src="https://img.shields.io/badge/-API--Football-1A1A2E?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+
+<br/><br/>
+
+<a href="https://github.com/QueirozMoura/tabela-aposta" target="_blank">
+<img src="https://img.shields.io/badge/Reposit%C3%B3rio-0d1117?style=for-the-badge&logo=github&logoColor=00fff2"/>
+</a>
+
+<br/><br/>
+
+### 🏅 Portfolio
+
+Portfólio pessoal apresentando projetos, tecnologias e a trajetória de desenvolvimento de software.
 
 <a href="https://github.com/QueirozMoura/portfolio">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=QueirozMoura&repo=portfolio&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&icon_color=ff00c8"/>
 </a>
 
-</td>
-<td width="50%" valign="top">
+<br/><br/>
 
-### 🏅 Weather Forecast App
-Weather application with AI integration and voice commands.
+### 🎖️ Previsão do Tempo com IA
 
-<a href="https://github.com/QueirozMoura/weather-forecast-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=QueirozMoura&repo=weather-forecast-app&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&icon_color=ff00c8"/>
+Aplicativo web de previsão do tempo por cidade, com sugestão de vestimenta via IA e suporte a entrada por texto ou comando de voz.
+
+<a href="https://github.com/QueirozMoura/projeto-previsao-do-tempo-com-ia">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=QueirozMoura&repo=projeto-previsao-do-tempo-com-ia&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&icon_color=ff00c8"/>
 </a>
-
-</td>
-</tr>
-</table>
-
-> 💡 Ajuste os nomes dos repositórios acima (`technical-assistance-system`, `fullstack-ecommerce`, `portfolio`, `weather-forecast-app`) para os nomes **exatos** dos seus repositórios no GitHub, senão os cards não carregam.
 
 </div>
 
